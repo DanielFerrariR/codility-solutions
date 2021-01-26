@@ -13,6 +13,9 @@ All solutions from Codility
 - 1 - BinaryGap - <https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/>
 - 2 - CyclicRotation - <https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/start/>
 - 3 - OddOccurrencesInArray - <https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/start/>
+- 4 - FrogJmp - <https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/start/>
+- 5 - PermMissingElem - <https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/start/>
+- 6 - TapeEquilibrium - <https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/>
 
 ## Workspace
 
